@@ -1,5 +1,5 @@
 <template>
-  <footer class="layout-footer-center">版权所有：中国航信重庆研发中心  Copyright &copy; 2015 All Rights Reserved</footer>
+  <footer class="layout-footer-center">版权所有：vuecms Copyright &copy; 2020 All Rights Reserved</footer>
 </template>
 
 <script>
